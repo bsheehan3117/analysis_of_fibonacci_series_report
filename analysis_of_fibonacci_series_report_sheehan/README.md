@@ -1,7 +1,5 @@
-# Midterm p1: Report on Analysis of Fibonacci  Series
+# Report on Analysis of Fibonacci  Series
 * **Author**: Brendan Sheehan
-* **GitHub Repo**: https://github.com/Su23-CS5008-Online-Lionelle/midterm-bsheehan3117.git
-* **Semester**: Summer 2023
 * **Languages Used**: c, Python
 
 ## Overview
